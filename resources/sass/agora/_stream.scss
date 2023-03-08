@@ -1,0 +1,45 @@
+
+.agora-stream {
+    .player {
+        width: 100%;
+        height: calc(100vh - 220px);
+        background-color: $gray-200;
+        border-radius: 10px;
+
+        & > div {
+            border-radius: 10px;
+            background-color: transparent;
+        }
+
+        video {
+            border-radius: 10px;
+        }
+
+        @media (max-width: $screen-sm-max) {
+            height: 60vh;
+        }
+    }
+
+    .time-item {
+        width: 24px;
+    }
+
+    .stream-player.screen-shared {
+        position: absolute !important;
+        width: 250px;
+        height: 150px;
+        left: 0;
+        z-index: 5;
+    }
+
+    .stream-footer {
+
+        @media (max-width: $screen-sm-max) {
+            flex-wrap: wrap;
+
+            .stream-bottom-actions {
+                flex: 1 1 90px;
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+
+.reward-gift-img {
+    width: 180px;
+
+    @media (max-width: $screen-xs-max) {
+        width: 120px;
+    }
+}
+
+.leaderboard-avatar {
+    width: 82px;
+    height: 82px;
+    padding: 5px;
+    border: 5px solid var(--primary);
+    border-radius: 50%;
+}
+
+.leaderboard-others-avatar {
+    width: 39px;
+    height: 39px;
+    border-radius: 50%;
+}
+
+.exchange-points-modal-img {
+    min-width: 114px;
+    width: 114px;
+    max-width: 114px;
+    height: 114px;
+}

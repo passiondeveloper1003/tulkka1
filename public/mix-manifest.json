@@ -1,0 +1,18 @@
+{
+    "/assets/default/js/app.js": "/assets/default/js/app.js",
+    "/assets/default/css/app.css": "/assets/default/css/app.css",
+    "/assets/default/css/panel.css": "/assets/default/css/panel.css",
+    "/assets/default/css/rtl-app.css": "/assets/default/css/rtl-app.css",
+    "/assets/default/js/parts/instructor-finder.min.js": "/assets/default/js/parts/instructor-finder.min.js",
+    "/assets/default/js/parts/main.min.js": "/assets/default/js/parts/main.min.js",
+    "/assets/default/js/parts/webinar_show.min.js": "/assets/default/js/parts/webinar_show.min.js",
+    "/assets/default/js/parts/video_player_helpers.min.js": "/assets/default/js/parts/video_player_helpers.min.js",
+    "/assets/default/js/parts/home.min.js": "/assets/default/js/parts/home.min.js",
+    "/assets/default/js/parts/login.min.js": "/assets/default/js/parts/login.min.js",
+    "/assets/default/js/parts/top_nav_flags.min.js": "/assets/default/js/parts/top_nav_flags.min.js",
+    "/assets/default/js/parts/instructors.min.js": "/assets/default/js/parts/instructors.min.js",
+    "/assets/default/js/parts/instructor-finder-wizard.min.js": "/assets/default/js/parts/instructor-finder-wizard.min.js",
+    "/assets/default/js/panel/user_setting.min.js": "/assets/default/js/panel/user_setting.min.js",
+    "/assets/default/js/panel/chat.min.js": "/assets/default/js/panel/chat.min.js",
+    "/assets/default/js/panel/meeting/reserve_meeting.min.js": "/assets/default/js/panel/meeting/reserve_meeting.min.js"
+}
